@@ -281,7 +281,7 @@ nav h1 a {
 }
 #reviews-list {
   margin: 0;
-  padding: 25px;
+  width: 90%;
 }
 #reviews-list li {
   background-color: #fff;
@@ -363,10 +363,6 @@ nav h1 a {
     padding: 5px;
     margin: auto;
     flex-direction: column;
-  }
-
-  #reviews-list {
-    width: 100vw;
   }
 
   #reviews-container h2 {
